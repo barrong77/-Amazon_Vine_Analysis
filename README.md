@@ -17,7 +17,7 @@ Percent of Helpful Votes to Total Votes equal or greater than 50%.
 ![PercentVotes](https://user-images.githubusercontent.com/108476566/203383077-2fe80f05-68dd-4bfb-9ab5-b9dc4cdb93cd.png)
 
 
-The results reduced the total number of reviews from 3M to 50.7K. This allowed us to answer the following questions:
+The data results reduced the total number of reviews from 3M to 50.7K. 
 
 1. How many Vine reviews and non-Vine reviews were there?
 
