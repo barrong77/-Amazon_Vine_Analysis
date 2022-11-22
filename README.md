@@ -25,14 +25,15 @@ Vine members made up 2% (1,080) of the reviews versus the remaining 98% were Non
 VineNonVineTotal
 ![VineNonVineTotal](https://user-images.githubusercontent.com/108476566/203383834-83c017f5-4bc9-45eb-b812-57fd5bf0b4eb.png)
 
+![Vine](https://user-images.githubusercontent.com/108476566/203384279-d761524e-96f5-4475-bad3-d136447a16d2.png)
 
+![NonVine](https://user-images.githubusercontent.com/108476566/203384386-7587033d-2d05-4005-bdd6-7e4d9c044895.png)
 
-nonVine
-
-2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+2. Vine reviews that were 5 stars versus non-Vine reviews were 5 stars:
 
 Vine members gave 454 out of 1,080 reviews a 5 star rating.
 Non-Vine members gave 23,034 out of 49,659 reviews a 5 star rating.
+
 3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 42% of the reviews for Vine members were rated 5 stars.
