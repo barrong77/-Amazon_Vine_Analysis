@@ -40,6 +40,7 @@ Non-Vine members gave 23,034 out of 49,659 reviews a 5 star rating.
   46.4% of the reviews for Non-Vine members were rated 5 stars.
 
 Summary
+
 Based on the results, Vine members did not show bias when rating their products considering that the number of 5-star ratings was about 10% less than Non-Vine members (42% vs. 46.4%). With this, we can assume that Vine customers are more critical when submitting their review. However, in order to support this assumption further, we should include all of the data rather than filtering it to a percentage of helpful vs. total votes as we did for this analysis. Reviewing the data as is would give us more information and allow us to further support our assumption as shown below.
 
 nonfilteredtotal
