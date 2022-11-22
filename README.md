@@ -17,14 +17,15 @@ Percent of Helpful Votes to Total Votes equal or greater than 50%.
 ![PercentVotes](https://user-images.githubusercontent.com/108476566/203383077-2fe80f05-68dd-4bfb-9ab5-b9dc4cdb93cd.png)
 
 
-The data results reduced the total number of reviews from 3M to 50.7K. 
+The data results reduced the total number of reviews from 3M to 50K. 
 
-1. How many Vine reviews and non-Vine reviews were there?
+1. Vine reviews when compared to non-Vine reviews:
 
-Vine members made up only 2.1% (1,080) of the reviews whereas the remaining 97.9% were Non-Vine members (49,659).
+Vine members made up 2% (1,080) of the reviews versus the remaining 98% were Non-Vine members (49,659).
 VineNonVineTotal
+![VineNonVineTotal](https://user-images.githubusercontent.com/108476566/203383834-83c017f5-4bc9-45eb-b812-57fd5bf0b4eb.png)
 
-vine
+
 
 nonVine
 
