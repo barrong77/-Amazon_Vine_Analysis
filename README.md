@@ -41,8 +41,9 @@ Non-Vine members gave 23,034 out of 49,659 reviews a 5 star rating.
 
 Summary
 
-Vine members did not show bias when rating products. The number of 5-star ratings were less than Non-Vine members. With this, we can assume that Vine customers are more critical when submitting their review. However, in order to support this assumption further, we should include all of the data rather than filtering it to a percentage of helpful vs. total votes as we did for this analysis. Reviewing the data as is would give us more information and allow us to further support our assumption as shown below.
+Vine members did not show bias when rating products. The number of 5-star ratings were less than Non-Vine members. 
 
-nonfilteredtotal
+![nonfilteredtotal](https://user-images.githubusercontent.com/108476566/203404052-1d1c48e5-feae-4169-81b5-2d0e6e93870f.png)
 
-In addition, running the same analysis using datasets from different product categories can provide us with the whole picture of whether reviews made by Vine members are bias.
+
+
